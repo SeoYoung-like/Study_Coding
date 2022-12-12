@@ -69,22 +69,29 @@
 
 
 * 호스트 : 인터넷에 연결된 컴퓨터 하나 하나를 말한다.
+
 * 호스팅 : 이런 컴퓨터를 빌려주는 사업
   * 웹서버를 전문적으로 빌려주는 비즈니스를 **웹호스팅 업체**라고 부릅니다.
-* 
+  
+  
 
+코드의 힘
 
+* 동영상 삽입 : 유튜브 HTML 파일로 넣기
 
+* [부록 : 코드의 힘 - 댓글 기능 추가](https://opentutorials.org/course/3084/18594)
 
+* [부록 : 코드의 힘 - 채팅 기능 추가](https://opentutorials.org/course/3084/18597)
 
-* [웹호스팅 github pages (2022년 수정판)](https://opentutorials.org/course/3084/18891)
-* [웹서버 운영하기 (2022년 수정판)](https://opentutorials.org/course/3084/31144)
+* [부록 : 코드의 힘 - 방문자 분석기](https://opentutorials.org/course/3084/18899)
+
+  
 
 * 무한 실습 - 한계 봉착 - 다음 것 공부하기
-* [부록 : 코드의 힘 - 동영상 삽입](https://opentutorials.org/course/3084/18453)
-* [부록 : 코드의 힘 - 댓글 기능 추가](https://opentutorials.org/course/3084/18594)
-* [부록 : 코드의 힘 - 채팅 기능 추가](https://opentutorials.org/course/3084/18597)
-* [부록 : 코드의 힘 - 방문자 분석기](https://opentutorials.org/course/3084/18899)
+
+
+
+
 
 
 
@@ -110,7 +117,7 @@
 ### 기타
 
 HTML => 4년후 => CSS
-                5년 후 => JavaScript
+                5년후 => JavaScript
 
 <br>
 
@@ -126,16 +133,6 @@ HTML => 4년후 => CSS
 * 지금까지 배운 내용을 활용하여 개인 컴퓨터에서 작동하는 웹사이트를 만든다.
 
 <br>
-
-<br>
-
-### 인터넷 연결하기
-
-1. 실제 사이트 ( index.html )
-2. 웹 브라우저 ( 클라이언트 )
-   - request - 요청
-3. 웹 서버 ( 서버 ) or 웹 호스팅
-   * response - 응답
 
 
 
